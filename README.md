@@ -1,7 +1,7 @@
 # ⚜️ GoldGPT - Script Injector para ChatGPT ⚜️
 Uma simples extensão para burlar totalmente os filtros de proteção do ChatGPT - OpenAI
 
-![A](https://cdn.discordapp.com/attachments/1095448977979211778/1115447496223760434/2.png)
+![A](https://media.discordapp.net/attachments/1144324808289566842/1153127375819780176/1694997377071.png)
 
 ## 📔 Sobre
 Por bastante tempo, vi pela internet prompts de Bypass / Jailbreak que não funcionavam sendo divulgados. Exemplos deles são o famoso [DAN](https://github.com/0xk1h0/ChatGPT_DAN) ou aqueles [DevMode](https://github.com/0xk1h0/ChatGPT_DAN). Grande parte das pessoas acreditam fielmente que esse é o máximo de capacidade que o ChatGPT pode atingir, mas é aí que eles estão enganados. GoldGPT veio pra mudar a visão sobre bypassers de IA's
@@ -22,7 +22,7 @@ Para injetar o MOD pelo navegador de PC, você só vai precisar abrir o [ChatGPT
 
 
 ```bash
-var scriptUrl='https://raw.githubusercontent.com/davizinmakerkkj/GoldGPT/main/GoldGPT.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
+var scriptUrl='https://raw.githubusercontent.com/henrydeev/GoldGPT/main/GoldGPT.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
 ```
 
 #### 📲 Pelo Navegador de Android
